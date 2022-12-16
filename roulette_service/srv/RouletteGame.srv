@@ -1,0 +1,7 @@
+int32 roulette_type
+int32 gamemode
+int32 value
+int32 bet
+---
+int32 result
+int32 bank
